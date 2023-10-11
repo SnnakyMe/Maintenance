@@ -1,0 +1,101 @@
+<modes>
+    <mode id="0">
+        <characteristic>С прерывным 
+технологическим 
+процессом</characteristic>
+        <dayPerYear>253</dayPerYear>
+        <workTimePerDay>2</workTimePerDay>
+        <timePerWorkTime>8.2</timePerWorkTime>
+        <timePerDay>16.4</timePerDay>
+        <timePerMonth>346</timePerMonth>
+        <timePerYear>4152</timePerYear>
+    </mode>
+    <mode id="1">
+        <characteristic>С прерывным 
+технологическим 
+процессом</characteristic>
+        <dayPerYear>260</dayPerYear>
+        <workTimePerDay>2</workTimePerDay>
+        <timePerWorkTime>8</timePerWorkTime>
+        <timePerDay>16</timePerDay>
+        <timePerMonth>346</timePerMonth>
+        <timePerYear>4152</timePerYear>
+    </mode>
+    <mode id="2">
+        <characteristic>С прерывным 
+технологическим 
+процессом</characteristic>
+        <dayPerYear>260</dayPerYear>
+        <workTimePerDay>3</workTimePerDay>
+        <timePerWorkTime>8</timePerWorkTime>
+        <timePerDay>24</timePerDay>
+        <timePerMonth>520</timePerMonth>
+        <timePerYear>6240</timePerYear>
+    </mode>
+    <mode id="3">
+        <characteristic>С прерывным 
+технологическим 
+процессом</characteristic>
+        <dayPerYear>305</dayPerYear>
+        <workTimePerDay>2</workTimePerDay>
+        <timePerWorkTime>6</timePerWorkTime>
+        <timePerDay>12</timePerDay>
+        <timePerMonth>305</timePerMonth>
+        <timePerYear>3660</timePerYear>
+    </mode>
+    <mode id="4">
+        <characteristic>С прерывным 
+технологическим 
+процессом</characteristic>
+        <dayPerYear>305</dayPerYear>
+        <workTimePerDay>2</workTimePerDay>
+        <timePerWorkTime>7</timePerWorkTime>
+        <timePerDay>14</timePerDay>
+        <timePerMonth>346</timePerMonth>
+        <timePerYear>4152</timePerYear>
+    </mode>
+    <mode id="5">
+        <characteristic>С прерывным 
+технологическим 
+процессом</characteristic>
+        <dayPerYear>305</dayPerYear>
+        <workTimePerDay>3</workTimePerDay>
+        <timePerWorkTime>6</timePerWorkTime>
+        <timePerDay>18</timePerDay>
+        <timePerMonth>458</timePerMonth>
+        <timePerYear>5496</timePerYear>
+    </mode>
+    <mode id="6">
+        <characteristic>С прерывным 
+технологическим 
+процессом</characteristic>
+        <dayPerYear>305</dayPerYear>
+        <workTimePerDay>3</workTimePerDay>
+        <timePerWorkTime>7</timePerWorkTime>
+        <timePerDay>21</timePerDay>
+        <timePerMonth>520</timePerMonth>
+        <timePerYear>6240</timePerYear>
+    </mode>
+    <mode id="7">
+        <characteristic>С непрерывным 
+технологическим 
+процессом</characteristic>
+        <dayPerYear>340</dayPerYear>
+        <workTimePerDay>3</workTimePerDay>
+        <timePerWorkTime>8</timePerWorkTime>
+        <timePerDay>24</timePerDay>
+        <timePerMonth>680</timePerMonth>
+        <timePerYear>8160</timePerYear>
+    </mode>
+    <mode id="8">
+        <characteristic>С непрерывным 
+технологическим 
+процессом</characteristic>
+        <dayPerYear>365</dayPerYear>
+        <workTimePerDay>3</workTimePerDay>
+        <timePerWorkTime>8</timePerWorkTime>
+        <timePerDay>24</timePerDay>
+        <timePerMonth>730</timePerMonth>
+        <timePerYear>8760</timePerYear>
+    </mode>
+</modes>

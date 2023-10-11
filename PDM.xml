@@ -1,0 +1,397 @@
+<PDMs>
+	<PDM id="0">
+		<namePDM>ST2G</namePDM>
+		<volume>1.9</volume>
+		<TO>5</TO>
+		<T1>13</T1>
+		<T2>32</T2>
+		<K>128</K>
+		<periodTO>376</periodTO>
+		<periodT1>1128</periodT1>
+		<periodT2>2256</periodT2>
+		<periodK>6768</periodK>
+		<trudGod>927</trudGod>
+	</PDM>
+	<PDM id="1">
+		<namePDM>ST2D</namePDM>
+		<volume>1.9</volume>
+		<TO>5</TO>
+		<T1>13</T1>
+		<T2>32</T2>
+		<K>128</K>
+		<periodTO>376</periodTO>
+		<periodT1>1128</periodT1>
+		<periodT2>2256</periodT2>
+		<periodK>6768</periodK>	
+		<trudGod>927</trudGod>	
+	</PDM>
+	<PDM id="2">
+		<namePDM>ST3,5</namePDM>
+		<volume>3.1</volume>
+		<TO>5</TO>
+		<T1>14</T1>
+		<T2>36</T2>
+		<K>144</K>
+		<periodTO>423</periodTO>
+		<periodT1>1269</periodT1>
+		<periodT2>2538</periodT2>
+		<periodK>7614</periodK>
+		<trudGod>1043</trudGod>
+	</PDM>
+	<PDM id="3">
+		<namePDM>ST7</namePDM>
+		<volume>3.1</volume>
+		<TO>5</TO>
+		<T1>14</T1>
+		<T2>36</T2>
+		<K>144</K>
+		<periodTO>423</periodTO>
+		<periodT1>1269</periodT1>
+		<periodT2>2538</periodT2>
+		<periodK>7614</periodK>
+		<trudGod>1043</trudGod>	
+	</PDM>
+	<PDM id="4">
+		<namePDM>ST21030</namePDM>
+		<volume>5.0</volume>
+		<TO>6</TO>
+		<T1>15</T1>
+		<T2>40</T2>
+		<K>160</K>
+		<periodTO>470</periodTO>
+		<periodT1>1410</periodT1>
+		<periodT2>2820</periodT2>
+		<periodK>8460</periodK>
+		<trudGod>1159</trudGod>
+	</PDM>
+	<PDM id="5">
+		<namePDM>ST14</namePDM>
+		<volume>6.4</volume>
+		<TO>8</TO>
+		<T1>21</T1>
+		<T2>52</T2>
+		<K>208</K>
+		<periodTO>611</periodTO>
+		<periodT1>1833</periodT1>
+		<periodT2>3666</periodT2>
+		<periodK>10998</periodK>
+		<trudGod>1507</trudGod>
+	</PDM>	
+	<PDM id="6">
+		<namePDM>ST1520</namePDM>
+		<volume>7.5</volume>
+		<TO>8</TO>
+		<T1>22</T1>
+		<T2>56</T2>
+		<K>224</K>
+		<periodTO>658</periodTO>
+		<periodT1>1974</periodT1>
+		<periodT2>3948</periodT2>
+		<periodK>11844</periodK>
+		<trudGod>1623</trudGod>
+	</PDM>
+	<PDM id="7">
+		<namePDM>EST2D</namePDM>
+		<volume>1.9</volume>
+		<TO>5</TO>
+		<T1>13</T1>
+		<T2>32</T2>
+		<K>128</K>
+		<periodTO>376</periodTO>
+		<periodT1>1128</periodT1>
+		<periodT2>2256</periodT2>
+		<periodK>6768</periodK>
+		<trudGod>927</trudGod>
+	</PDM>
+	<PDM id="8">
+		<namePDM>EST3,5</namePDM>
+		<volume>3.1</volume>
+		<TO>5</TO>
+		<T1>14</T1>
+		<T2>36</T2>
+		<K>144</K>
+		<periodTO>423</periodTO>
+		<periodT1>1269</periodT1>
+		<periodT2>2538</periodT2>
+		<periodK>7614</periodK>
+		<trudGod>1043</trudGod>	
+	</PDM>
+	<PDM id="9">
+		<namePDM>ST7LP</namePDM>
+		<volume>3.4</volume>
+		<TO>5</TO>
+		<T1>14</T1>
+		<T2>36</T2>
+		<K>144</K>
+		<periodTO>423</periodTO>
+		<periodT1>1269</periodT1>
+		<periodT2>2538</periodT2>
+		<periodK>7614</periodK>
+		<trudGod>1043</trudGod>		
+	</PDM>
+	<PDM id="10">
+		<namePDM>ST1030LP</namePDM>
+		<volume>5.0</volume>
+		<TO>6</TO>
+		<T1>14</T1>
+		<T2>40</T2>
+		<K>160</K>
+		<periodTO>470</periodTO>
+		<periodT1>1410</periodT1>
+		<periodT2>2820</periodT2>
+		<periodK>8460</periodK>
+		<trudGod>1159</trudGod>	
+	</PDM>
+	<PDM id="11">
+		<namePDM>ST1520LP</namePDM>
+		<volume>7.5</volume>
+		<TO>8</TO>
+		<T1>22</T1>
+		<T2>56</T2>
+		<K>224</K>
+		<periodTO>658</periodTO>
+		<periodT1>1974</periodT1>
+		<periodT2>3948</periodT2>
+		<periodK>11844</periodK>
+		<trudGod>1623</trudGod>		
+	</PDM>
+	<PDM id="12">
+		<namePDM>LH307-TORO 6</namePDM>
+		<volume>3.4</volume>
+		<TO>6</TO>
+		<T1>15</T1>
+		<T2>38</T2>
+		<K>152</K>
+		<periodTO>447</periodTO>
+		<periodT1>1340</periodT1>
+		<periodT2>2679</periodT2>
+		<periodK>8037</periodK>
+		<trudGod>1101</trudGod>		
+	</PDM>
+	<PDM id="13">
+		<namePDM>LH410-TORO 7</namePDM>
+		<volume>5.0</volume>
+		<TO>6</TO>
+		<T1>16</T1>
+		<T2>40</T2>
+		<K>160</K>
+		<periodTO>470</periodTO>
+		<periodT1>1410</periodT1>
+		<periodT2>2820</periodT2>
+		<periodK>8460</periodK>
+		<trudGod>1159</trudGod>
+	</PDM>
+	<PDM id="14">
+		<namePDM>LH514-TORO 9</namePDM>
+		<volume>6.4</volume>
+		<TO>8</TO>
+		<T1>21</T1>
+		<T2>52</T2>
+		<K>208</K>
+		<periodTO>611</periodTO>
+		<periodT1>1833</periodT1>
+		<periodT2>3666</periodT2>
+		<periodK>10998</periodK>
+		<trudGod>1507</trudGod>
+	</PDM>
+	<PDM id="15">
+		<namePDM>LH517-TORO 0010</namePDM>
+		<volume>7.8</volume>
+		<TO>9</TO>
+		<T1>23</T1>
+		<T2>58</T2>
+		<K>232</K>
+		<periodTO>682</periodTO>
+		<periodT1>2045</periodT1>
+		<periodT2>4089</periodT2>
+		<periodK>12267</periodK>
+		<trudGod>1681</trudGod>
+	</PDM>
+	<PDM id="16">
+		<namePDM>LH621-TORO 11</namePDM>
+		<volume>8.2</volume>
+		<TO>10</TO>
+		<T1>27</T1>
+		<T2>82</T2>
+		<K>272</K>
+		<periodTO>799</periodTO>
+		<periodT1>2397</periodT1>
+		<periodT2>4798</periodT2>
+		<periodK>14382</periodK>
+		<trudGod>1970</trudGod>
+	</PDM>
+	<PDM id="17">
+		<namePDM>LH306E-EJC 145E</namePDM>
+		<volume>3.1</volume>
+		<TO>5</TO>
+		<T1>14</T1>
+		<T2>36</T2>
+		<K>144</K>
+		<periodTO>423</periodTO>
+		<periodT1>1269</periodT1>
+		<periodT2>2538</periodT2>
+		<periodK>7614</periodK>
+		<trudGod>1043</trudGod>
+	</PDM>
+	<PDM id="18">
+		<namePDM>LH409E-TORO 400E</namePDM>
+		<volume>4.8</volume>
+		<TO>6</TO>
+		<T1>16</T1>
+		<T2>40</T2>
+		<K>160</K>
+		<periodTO>470</periodTO>
+		<periodT1>1410</periodT1>
+		<periodT2>2820</periodT2>
+		<periodK>8460</periodK>
+		<trudGod>1159</trudGod>
+	</PDM>
+	<PDM id="19">
+		<namePDM>LH514E-TORO 1400E</namePDM>
+		<volume>5.5</volume>
+		<TO>8</TO>
+		<T1>21</T1>
+		<T2>52</T2>
+		<K>208</K>
+		<periodTO>611</periodTO>
+		<periodT1>1833</periodT1>
+		<periodT2>3666</periodT2>
+		<periodK>10998</periodK>
+		<trudGod>1507</trudGod>
+	</PDM>	
+	<PDM id="20">
+		<namePDM>LH6254E-TORO 2500E</namePDM>
+		<volume>10</volume>
+		<TO>13</TO>
+		<T1>34</T1>
+		<T2>86</T2>
+		<K>344</K>
+		<periodTO>1011</periodTO>
+		<periodT1>3032</periodT1>
+		<periodT2>6063</periodT2>
+		<periodK>18189</periodK>
+		<trudGod>2492</trudGod>
+	</PDM>
+	<PDM id="21">
+		<namePDM>R1300G</namePDM>
+		<volume>2.4</volume>
+		<volume2>3.4</volume2>
+		<TO>6</TO>
+		<T1>15</T1>
+		<T2>38</T2>
+		<K>152</K>
+		<periodTO>447</periodTO>
+		<periodT1>1340</periodT1>
+		<periodT2>2679</periodT2>
+		<periodK>8037</periodK>
+		<trudGod>1101</trudGod>
+	</PDM>	
+	<PDM id="22">
+		<namePDM>R1600G</namePDM>
+		<volume>4.2</volume>
+		<volume2>5.9</volume2>
+		<TO>7</TO>
+		<T1>18</T1>
+		<T2>46</T2>
+		<K>184</K>
+		<periodTO>541</periodTO>
+		<periodT1>1622</periodT1>
+		<periodT2>3243</periodT2>
+		<periodK>9729</periodK>
+		<trudGod>1333</trudGod>
+	</PDM>
+	<PDM id="23">
+		<namePDM>R1700G</namePDM>
+		<volume>4.6</volume>
+		<volume2>8.8</volume2>
+		<TO>8</TO>
+		<T1>21</T1>
+		<T2>52</T2>
+		<K>208</K>
+		<periodTO>611</periodTO>
+		<periodT1>1833</periodT1>
+		<periodT2>3666</periodT2>
+		<periodK>10998</periodK>
+		<trudGod>1507</trudGod>
+	</PDM>
+	<PDM id="24">
+		<namePDM>R2900G</namePDM>
+		<volume>7.2</volume>
+		<volume2>8.9</volume2>
+		<TO>9</TO>
+		<T1>24</T1>
+		<T2>60</T2>
+		<K>240</K>
+		<periodTO>799</periodTO>
+		<periodT1>2397</periodT1>
+		<periodT2>4794</periodT2>
+		<periodK>14382</periodK>
+		<trudGod>1739</trudGod>
+	</PDM>
+	<PDM id="25">
+		<namePDM>R2900G XTRA</namePDM>
+		<volume>8.9</volume>
+		<volume2>11.6</volume2>
+		<TO>10</TO>
+		<T1>27</T1>
+		<T2>68</T2>
+		<K>272</K>
+		<periodTO>799</periodTO>
+		<periodT1>2397</periodT1>
+		<periodT2>4794</periodT2>
+		<periodK>14382</periodK>
+		<trudGod>1970</trudGod>
+	</PDM>
+	<PDM id="26">
+		<namePDM>SFL 65</namePDM>
+		<volume>3.5</volume>
+		<TO>5</TO>
+		<T1>14</T1>
+		<T2>36</T2>
+		<K>144</K>
+		<periodTO>423</periodTO>
+		<periodT1>1269</periodT1>
+		<periodT2>2538</periodT2>
+		<periodK>7614</periodK>
+		<trudGod>1043</trudGod>
+	</PDM>	
+	<PDM id="27">
+		<namePDM>SFL 100</namePDM>
+		<volume>4.7</volume>
+		<TO>7</TO>
+		<T1>18</T1>
+		<T2>44</T2>
+		<K>176</K>
+		<periodTO>517</periodTO>
+		<periodT1>1551</periodT1>
+		<periodT2>3102</periodT2>
+		<periodK>9306</periodK>
+		<trudGod>1275</trudGod>
+	</PDM>	
+	<PDM id="28">
+		<namePDM>SFL 150</namePDM>
+		<volume>8</volume>
+		<TO>9</TO>
+		<T1>22</T1>
+		<T2>54</T2>
+		<K>216</K>
+		<periodTO>635</periodTO>
+		<periodT1>1904</periodT1>
+		<periodT2>3807</periodT2>
+		<periodK>11421</periodK>
+		<trudGod>1565</trudGod>
+	</PDM>	
+	<PDM id="29">
+		<namePDM>SFL 180</namePDM>
+		<volume>9</volume>
+		<TO>9</TO>
+		<T1>24</T1>
+		<T2>60</T2>
+		<K>240</K>
+		<periodTO>705</periodTO>
+		<periodT1>2115</periodT1>
+		<periodT2>4230</periodT2>
+		<periodK>12690</periodK>
+		<trudGod>1739</trudGod>
+	</PDM>							
+</PDMs>

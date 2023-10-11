@@ -1,0 +1,286 @@
+<SBOUVDs>
+	<SBOUVD id="0">
+		<nameSBO>BOOMER T1D</nameSBO>
+		<TO>6</TO>
+		<T1>18</T1>
+		<T2>30</T2>
+		<K>72</K>
+		<periodTO>470</periodTO>
+		<periodT1>1410</periodT1>
+		<periodT2>2820</periodT2>
+		<periodK>8460</periodK>
+		<trudGod>520</trudGod>
+	</SBOUVD>	
+	<SBOUVD id="1">
+		<nameSBO>BOOMER S1D</nameSBO>
+		<TO>6</TO>
+		<T1>18</T1>
+		<T2>30</T2>
+		<K>72</K>
+		<periodTO>470</periodTO>
+		<periodT1>1410</periodT1>
+		<periodT2>2820</periodT2>
+		<periodK>8460</periodK>
+		<trudGod>520</trudGod>
+	</SBOUVD>	
+	<SBOUVD id="2">
+		<nameSBO>BOOMER S1L</nameSBO>
+		<TO>7</TO>
+		<T1>20</T1>
+		<T2>33</T2>
+		<K>79</K>
+		<periodTO>517</periodTO>
+		<periodT1>1551</periodT1>
+		<periodT2>3102</periodT2>
+		<periodK>9306</periodK>
+		<trudGod>572</trudGod>
+	</SBOUVD>		
+	<SBOUVD id="3">
+		<nameSBO>BOOMER 282</nameSBO>
+		<TO>8</TO>
+		<T1>24</T1>
+		<T2>41</T2>
+		<K>97</K>
+		<periodTO>635</periodTO>
+		<periodT1>1904</periodT1>
+		<periodT2>3807</periodT2>
+		<periodK>11421</periodK>
+		<trudGod>702</trudGod>
+	</SBOUVD>		
+	<SBOUVD id="4">
+		<nameSBO>BOOMER M1</nameSBO>
+		<TO>8</TO>
+		<T1>24</T1>
+		<T2>41</T2>
+		<K>97</K>
+		<periodTO>635</periodTO>
+		<periodT1>1904</periodT1>
+		<periodT2>3807</periodT2>
+		<periodK>11421</periodK>
+		<trudGod>702</trudGod>
+	</SBOUVD>	
+	<SBOUVD id="5">
+		<nameSBO>BOOMER M2</nameSBO>
+		<TO>9</TO>
+		<T1>27</T1>
+		<T2>45</T2>
+		<K>108</K>
+		<periodTO>705</periodTO>
+		<periodT1>2115</periodT1>
+		<periodT2>4230</periodT2>
+		<periodK>12960</periodK>
+		<trudGod>780</trudGod>
+	</SBOUVD>	
+	<SBOUVD id="6">
+		<nameSBO>BOOMER L1</nameSBO>
+		<TO>9</TO>
+		<T1>27</T1>
+		<T2>45</T2>
+		<K>108</K>
+		<periodTO>705</periodTO>
+		<periodT1>2115</periodT1>
+		<periodT2>4230</periodT2>
+		<periodK>12960</periodK>
+		<trudGod>780</trudGod>
+	</SBOUVD>	
+	<SBOUVD id="7">
+		<nameSBO>BOOMER L2</nameSBO>
+		<TO>11</TO>
+		<T1>32</T1>
+		<T2>53</T2>
+		<K>126</K>
+		<periodTO>823</periodTO>
+		<periodT1>2468</periodT1>
+		<periodT2>4935</periodT2>
+		<periodK>14805</periodK>
+		<trudGod>910</trudGod>
+	</SBOUVD>	
+	<SBOUVD id="8">
+		<nameSBO>BOOMER E2</nameSBO>
+		<TO>4</TO>
+		<T>18</T>
+		<K>120</K>
+		<periodTO>470</periodTO>
+		<periodT>940</periodT>
+		<periodK>16920</periodK>
+		<trudGod>993</trudGod>
+	</SBOUVD>	
+	<SBOUVD id="9">
+		<nameSBO>BOOMER E3</nameSBO>
+		<TO>5</TO>
+		<T>21</T>
+		<K>138</K>
+		<periodTO>541</periodTO>
+		<periodT>1081</periodT>
+		<periodK>19458</periodK>
+		<trudGod>1142</trudGod>
+	</SBOUVD>	
+	<SBOUVD id="10">
+		<nameSBO>SIMBA H157</nameSBO>
+		<TO>6</TO>
+		<T1>17</T1>
+		<T2>29</T2>
+		<K>68</K>
+		<periodTO>447</periodTO>
+		<periodT1>1340</periodT1>
+		<periodT2>2679</periodT2>
+		<periodK>8037</periodK>
+		<trudGod>494</trudGod>
+	</SBOUVD>	
+	<SBOUVD id="11">
+		<nameSBO>SIMBA S7D</nameSBO>
+		<TO>6</TO>
+		<T1>18</T1>
+		<T2>30</T2>
+		<K>72</K>
+		<periodTO>470</periodTO>
+		<periodT1>1410</periodT1>
+		<periodT2>2820</periodT2>
+		<periodK>8460</periodK>
+		<trudGod>520</trudGod>
+	</SBOUVD>	
+	<SBOUVD id="12">
+		<nameSBO>SIMBA 1252/3/4</nameSBO>
+		<TO>7</TO>
+		<T1>20</T1>
+		<T2>33</T2>
+		<K>79</K>
+		<periodTO>517</periodTO>
+		<periodT1>1551</periodT1>
+		<periodT2>3102</periodT2>
+		<periodK>9306</periodK>
+		<trudGod>572</trudGod>
+	</SBOUVD>	
+	<SBOUVD id="13">
+		<nameSBO>SIMBA 1354</nameSBO>
+		<TO>7</TO>
+		<T1>22</T1>
+		<T2>36</T2>
+		<K>86</K>
+		<periodTO>564</periodTO>
+		<periodT1>1692</periodT1>
+		<periodT2>3384</periodT2>
+		<periodK>10152</periodK>
+		<trudGod>624</trudGod>
+	</SBOUVD>	
+	<SBOUVD id="14">
+		<nameSBO>SIMBA M3C</nameSBO>
+		<TO>8</TO>
+		<T1>23</T1>
+		<T2>39</T2>
+		<K>94</K>
+		<periodTO>611</periodTO>
+		<periodT1>1833</periodT1>
+		<periodT2>3666</periodT2>
+		<periodK>10998</periodK>
+		<trudGod>676</trudGod>		
+	</SBOUVD>	
+	<SBOUVD id="15">
+		<nameSBO>SIMBA M4C</nameSBO>
+		<TO>8</TO>
+		<T1>24</T1>
+		<T2>41</T2>
+		<K>97</K>
+		<periodTO>635</periodTO>
+		<periodT1>1904</periodT1>
+		<periodT2>3807</periodT2>
+		<periodK>11421</periodK>
+		<trudGod>702</trudGod>
+	</SBOUVD>	
+	<SBOUVD id="16">
+		<nameSBO>SIMBA M6C</nameSBO>
+		<TO>9</TO>
+		<T1>26</T1>
+		<T2>44</T2>
+		<K>104</K>
+		<periodTO>682</periodTO>
+		<periodT1>2045</periodT1>
+		<periodT2>4089</periodT2>
+		<periodK>12267</periodK>
+		<trudGod>754</trudGod>
+	</SBOUVD>	
+	<SBOUVD id="17">
+		<nameSBO>SIMBA M7C</nameSBO>
+		<TO>8</TO>
+		<T1>24</T1>
+		<T2>41</T2>
+		<K>97</K>
+		<periodTO>635</periodTO>
+		<periodT1>1904</periodT1>
+		<periodT2>3807</periodT2>
+		<periodK>11421</periodK>
+		<trudGod>702</trudGod>
+	</SBOUVD>
+	<SBOUVD id="18">
+		<nameSBO>SIMBA L3C</nameSBO>
+		<TO>8</TO>
+		<T1>25</T1>
+		<T2>42</T2>
+		<K>97</K>
+		<periodTO>635</periodTO>
+		<periodT1>1904</periodT1>
+		<periodT2>3807</periodT2>
+		<periodK>11844</periodK>
+		<trudGod>702</trudGod>
+	</SBOUVD>
+	<SBOUVD id="19">
+		<nameSBO>SIMBA L6C</nameSBO>
+		<TO>10</TO>
+		<T1>30</T1>
+		<T2>50</T2>
+		<K>119</K>
+		<periodTO>776</periodTO>
+		<periodT1>2327</periodT1>
+		<periodT2>4653</periodT2>
+		<periodK>13959</periodK>
+		<trudGod>858</trudGod>
+	</SBOUVD>
+	<SBOUVD id="20">
+		<nameSBO>SIMBA 364-ITH</nameSBO>
+		<TO>8</TO>
+		<T1>22</T1>
+		<T2>36</T2>
+		<K>86</K>
+		<periodTO>564</periodTO>
+		<periodT1>1692</periodT1>
+		<periodT2>3384</periodT2>
+		<periodK>10152</periodK>
+		<trudGod>728</trudGod>
+	</SBOUVD>
+	<SBOUVD id="21">
+		<nameSBO>SIMBA M3 C-ITH</nameSBO>
+		<TO>8</TO>
+		<T1>23</T1>
+		<T2>39</T2>
+		<K>94</K>
+		<periodTO>611</periodTO>
+		<periodT1>1833</periodT1>
+		<periodT2>3666</periodT2>
+		<periodK>10998</periodK>
+		<trudGod>676</trudGod>
+	</SBOUVD>
+	<SBOUVD id="22">
+		<nameSBO>SIMBA M4 C-ITH</nameSBO>
+		<TO>8</TO>
+		<T1>24</T1>
+		<T2>41</T2>
+		<K>97</K>
+		<periodTO>635</periodTO>
+		<periodT1>1904</periodT1>
+		<periodT2>3807</periodT2>
+		<periodK>11421</periodK>
+		<trudGod>702</trudGod>
+	</SBOUVD>
+		<SBOUVD id="23">
+		<nameSBO>SIMBA M6 C-ITH</nameSBO>
+		<TO>9</TO>
+		<T1>26</T1>
+		<T2>44</T2>
+		<K>104</K>
+		<periodTO>682</periodTO>
+		<periodT1>2045</periodT1>
+		<periodT2>4089</periodT2>
+		<periodK>12267</periodK>
+		<trudGod>754</trudGod>
+	</SBOUVD>			
+</SBOUVDs>												
